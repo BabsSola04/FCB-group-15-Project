@@ -46,6 +46,7 @@ The visualizations created in Power BI provided several key insights, including:
 1. **Top Products and Sales Trends**:
     - Electronics and Home Appliances consistently lead in revenue.
     - Sales exhibit a strong seasonal trend, with peaks during the holiday season.
+    - Singular purchases brought in more revenue than multi-purchases.
 2. **Regional Performance**:
     - North America outperforms other regions, contributing to ~46% of total sales.
     - Asia and Europe made up the remaining 54% ( with Asia having 1.47% more sales that Europe)
