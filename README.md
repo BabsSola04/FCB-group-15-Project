@@ -66,10 +66,6 @@ The visualizations created in Power BI provided several key insights, including:
 
 If you have any suggestions or improvements, feel free to submit a pull request or open an issue. Contributions are welcome!
 
-## **License**
-
-This project is licensed under the MIT License. See the **`LICENSE`** file for details.
-
 ## **Contact**
 
 For any questions or inquiries, please contact babasoladuduyemi04@gmail.com.
