@@ -1,5 +1,7 @@
 # **Sales Data Analysis**
 
+![](shot1.png)
+
 ## **Overview**
 
 This repository contains the analysis and visualization of sales data sourced from Kaggle. The analysis aims to uncover insights and answer critical business questions to guide decision-making processes.
@@ -29,6 +31,13 @@ The primary objective of this analysis is to extract actionable insights from th
 3. **Payment Channels Performance**:
     - Which payment channels (e.g., Credit card, Debit card, PayPal) are the most effective?
     - Which payment methods are used most by each region?
+
+
+## **Snapshots**
+
+![](shot2.png)
+![](shot3.png)
+![](shot4.png)
 
 ## **Insights from the Visualization**
 
