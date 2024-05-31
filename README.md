@@ -52,9 +52,6 @@ The visualizations created in Power BI provided several key insights, including:
 3. **Payment Method Performance**:
     - Credit card generated the most total revenue being the most popular payment method. (making up 63% of revenue)
     - Debit card brought in the least revenue even while being the only payment method being used in Asia (only ~10% of revenue)
-4. **Effectiveness of Sales Channels**:
-    - Online sales have grown by 25% compared to the previous year, indicating a shift in consumer purchasing behavior.
-    - In-store promotions have been highly effective, particularly during the back-to-school season.
 
 ## **How to Use This Repository**
 
